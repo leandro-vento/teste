@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs/
+
+website:
+  title: "Leandro Vento"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Sobre
+
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+    toc: true
+
+editor: visual
+
