@@ -2,7 +2,9 @@
 title: ""
 ---
 
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
 <img src="img-perfil-github.png" align="center" alt="Perfil" style="width:300px; height:300px; border-radius:50%; margin-left: auto; margin-right: auto;">
+</div>
 <br>
 <h1 align="center">👋Olá, seja bem vindo(a)!</h1>
 <div align="left" style="width:100%; margin-left: auto; margin-right: auto;">
